@@ -1,0 +1,848 @@
+{
+ "generated_at": "2026-11-21T13:05:08.934794Z",
+ "count": 66,
+ "items": [
+  {
+   "id": "32ed595250",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/gta-6-generates-3-79-billion-in-first-day-sales-with-32-5-million-copies-sold-before-launch",
+   "url": "https://videocardz.com/newz/gta-6-generates-3-79-billion-in-first-day-sales-with-32-5-million-copies-sold-before-launch",
+   "title": "GTA 6 generates $3.79 billion in first-day sales, with 32.5 million copies sold before launch",
+   "summary": "Rockstar confirms the biggest entertainment launch in history Rockstar Games has announced that Grand Theft Auto VI generated $3.79 billion in worldwide retail sales on its first day. According to...",
+   "categories": [],
+   "published_at": "2026-11-21T12:15:57Z"
+  },
+  {
+   "id": "b7103778ab",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "iWDdQWLWrnTxBfWSxSV39N",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
+   "title": "Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+   "summary": "A Reddit homelabber’s Optane PMem 200 server now runs Moonshot AI’s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-21T12:00:00Z"
+  },
+  {
+   "id": "0647aea76c",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "PvE29KUgKeeSZcG2vawanG",
+   "url": "https://www.tomshardware.com/pc-components/external-hdds/get-38-percent-off-this-20tb-wd-elements-external-hdd-in-amazon-black-friday-offer-pay-just-2-75-cents-per-gb-as-drive-drops-to-usd549",
+   "title": "Get 38% off this 20TB WD Elements external HDD in Amazon Black Friday offer — pay just 2.75 cents per GB as drive drops to $549",
+   "summary": "Pay just 2.75 cents per gigabyte with this 20TB external HDD offer, as the WD Elements set has dropped to just $549.99 in this Black Friday deal.",
+   "categories": [
+    "External HDDs",
+    "PC Components",
+    "Storage",
+    "HDDs"
+   ],
+   "published_at": "2026-11-21T11:41:10Z"
+  },
+  {
+   "id": "c4968fb3ca",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "7C9pHjEq4HJn53vQ36WsCo",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
+   "title": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
+   "summary": "Tufa Labs’ tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-21T11:30:00Z"
+  },
+  {
+   "id": "933e1572cc",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/silverstone-hela-1350w-psu-officially-supports-intel-nova-lake-s-cpus-features-three-eps-power-cables",
+   "url": "https://videocardz.com/newz/silverstone-hela-1350w-psu-officially-supports-intel-nova-lake-s-cpus-features-three-eps-power-cables",
+   "title": "SilverStone HELA 1350W PSU officially supports Intel Nova Lake-S CPUs, features three EPS power cables",
+   "summary": "Three CPU power cables for Intel's next-gen desktop platform SilverStone has introduced the HELA 1350Rz, a 1350W ATX 3.1 power supply with 80 PLUS Platinum certification. The company explicitly mentions...",
+   "categories": [],
+   "published_at": "2026-11-21T11:19:00Z"
+  },
+  {
+   "id": "72418e5c2e",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "MLYNFisdFLjosE5YGA2z3T",
+   "url": "https://www.tomshardware.com/pc-components/microsd-cards/sandisk-512gb-microsd-express-deal-slashes-switch-2-storage-by-24-percent-in-amazon-black-friday-offer-price-hits-under-usd100-amid-storage-squeeze",
+   "title": "SanDisk 512GB MicroSD Express deal slashes Switch 2 storage by 24% in Amazon Black Friday offer — price hits under $100 amid storage squeeze",
+   "summary": "SanDisk's large 512 GB MicroSD Express card has dropped to just $98 at Amazon, marking a 24% discount when compared to its original list price in a rare storage offer.",
+   "categories": [
+    "microSD Cards",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-21T10:32:35Z"
+  },
+  {
+   "id": "ddf0737311",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/moore-threads-teases-new-gpu-with-highest-vram-capacity-on-a-consumer-graphics-card",
+   "url": "https://videocardz.com/newz/moore-threads-teases-new-gpu-with-highest-vram-capacity-on-a-consumer-graphics-card",
+   "title": "Moore Threads teases new GPU with “highest VRAM capacity” on a consumer graphics card",
+   "summary": "Chinese GPU maker prepares new gaming graphics card for December 29 reveal Moore Threads has released a new teaser for its upcoming Lushan GPU, which will be presented at the...",
+   "categories": [],
+   "published_at": "2026-11-21T10:03:51Z"
+  },
+  {
+   "id": "5d15b46b9a",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "zA2nfRkeWVfSRLZKB8suvZ",
+   "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-scope-ii-96-gaming-keyboard-crashes-to-all-time-low-in-early-black-friday-offer-grab-39-percent-off-a-premium-board-packed-full-of-features",
+   "title": "Asus ROG Strix Scope II 96 gaming keyboard crashes to all-time low in early Black Friday offer — grab 39% off a premium board packed full of features",
+   "summary": "The Asus ROG Strix Scope II 96 has hit an all-time low price in this Amazon early Black Friday offer, which has slashed the gaming keyboard's price by 39%.",
+   "categories": [
+    "Gaming Keyboards",
+    "Peripherals",
+    "Keyboards"
+   ],
+   "published_at": "2026-11-21T09:52:39Z"
+  },
+  {
+   "id": "64d6fa1de9",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "WYY3vfhRGXy5f5vKXYCXyb",
+   "url": "https://www.tomshardware.com/peripherals/gaming-mice/razers-mmo-mouse-hits-all-time-low-price-at-under-usd60-at-amazon-in-black-friday-deal-naga-v2-hyperspeed-price-craters-by-42-percent-in-stellar-gaming-mouse-offer",
+   "title": "Razer's MMO mouse hits all-time low price at under $60 at Amazon in Black Friday deal — Naga V2 Hyperspeed price craters by 42% in stellar gaming mouse offer",
+   "summary": "Razer's Naga V2 Hyperspeed gaming mouse is now just $56 at Amazon, hitting an all-time low price just in time for Black Friday.",
+   "categories": [
+    "Gaming Mice",
+    "Peripherals",
+    "Mice"
+   ],
+   "published_at": "2026-11-21T09:04:58Z"
+  },
+  {
+   "id": "ed0fc5f98c",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/modder-makes-dlss-5-neural-rendering-on-amd-gpus-60-faster-adds-6x-apex-frame-generation",
+   "url": "https://videocardz.com/newz/modder-makes-dlss-5-neural-rendering-on-amd-gpus-60-faster-adds-6x-apex-frame-generation",
+   "title": "Modder makes DLSS 5 Neural Rendering on AMD GPUs 60% faster, adds 6x Apex Frame Generation",
+   "summary": "AMDLSS5 2.5 adds Vulkan neural engine and multi-frame generation Modders have released AMDLSS5 2.5, an update to the unofficial tool that brings NVIDIA DLSS 5-style neural rendering to AMD Radeon...",
+   "categories": [],
+   "published_at": "2026-11-21T08:59:36Z"
+  },
+  {
+   "id": "ffc190aa74",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "2X5ABDXVRLzzyD3WCXRhWd",
+   "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-gorgeous-49-inch-odyssey-oled-g9-hits-a-new-all-time-low-price-of-usd854-amazon-black-friday-deal-slashes-33-percent-off-gaming-monitor-upgrade",
+   "title": "Samsung’s gorgeous 49-inch Odyssey OLED G9 hits a new all-time low price of $854 — Amazon Black Friday deal slashes 33% off gaming monitor upgrade",
+   "summary": "Now's your chance to own a massive 49-inch ultrawide QD-OLED gaming monitor now that it's hit a new all-time low price on Amazon for Black Friday.",
+   "categories": [
+    "Gaming Monitors",
+    "Monitors"
+   ],
+   "published_at": "2026-11-21T08:02:41Z"
+  },
+  {
+   "id": "39e2625e09",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/nvidia-releases-geforce-621-35-hotfix-to-fix-excessive-ssd-writes",
+   "url": "https://videocardz.com/newz/nvidia-releases-geforce-621-35-hotfix-to-fix-excessive-ssd-writes",
+   "title": "NVIDIA releases GeForce 621.35 hotfix to fix excessive SSD writes",
+   "summary": "NVIDIA addresses SSD write bug in latest GeForce drivers NVIDIA has released GeForce Hotfix Driver 621.35 to address excessive SSD writes reported by users of recent Game Ready drivers. The...",
+   "categories": [],
+   "published_at": "2026-11-20T22:12:08Z"
+  },
+  {
+   "id": "8e8081390b",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "ndNyPJWbWv3t5kRq7Tjr3K",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
+   "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test",
+   "summary": "The South Korean government used extra measures to prevent cheating in its national college admission exams, due to a confession from a tax accountant exam top scorer admitting to AI-assisted cheating days before the CSAT.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-20T21:00:00Z"
+  },
+  {
+   "id": "d4f950c4d4",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "RPk8BMjESgnyMytcc4W2LU",
+   "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd2-400-on-a-tricked-out-corsair-rtx-5090-prebuilt-in-black-friday-run-up-sale-sweet-spec-list-also-includes-9950x3d-64gb-ram-and-4tb-storage",
+   "title": "Save $2,400 on a tricked-out Corsair RTX 5090 prebuilt gaming PC in Black Friday run-up sale — sweet spec list also includes 9950X3D, 64GB RAM, and 4TB storage",
+   "summary": "Prices for RTX 5090 prebuilt PCs have spiked above five figures almost everywhere, but you can still get this Corsair Millennium system for $8999.99, or $2400 off, ahead of the Black Friday rush.",
+   "categories": [
+    "Gaming PCs",
+    "Desktops"
+   ],
+   "published_at": "2026-11-20T20:09:47Z"
+  },
+  {
+   "id": "6d685a1cf5",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/gpd-win-mini-ultra-with-intel-arc-g3-extreme-priced-at-1699-64gb-version-skips-indiegogo",
+   "url": "https://videocardz.com/newz/gpd-win-mini-ultra-with-intel-arc-g3-extreme-priced-at-1699-64gb-version-skips-indiegogo",
+   "title": "GPD WIN Mini Ultra with Intel Arc G3 Extreme priced at $1,699, 64GB version skips Indiegogo",
+   "summary": "GPD confirms global pricing for its Panther Lake gaming handheld GPD has confirmed the international pricing of its WIN Mini Ultra handheld, which will launch through Indiegogo in December. The...",
+   "categories": [],
+   "published_at": "2026-11-20T19:51:06Z"
+  },
+  {
+   "id": "a41a8eeebe",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/mangmi-teases-air-x-pro-gaming-handheld-specifications-coming-soon",
+   "url": "https://videocardz.com/newz/mangmi-teases-air-x-pro-gaming-handheld-specifications-coming-soon",
+   "title": "MANGMI teases Air X Pro gaming handheld, specifications coming soon",
+   "summary": "New Air X Pro handheld announced MANGMI has announced the Air X Pro, a new compact gaming handheld based on its existing Air X series. The company published a teaser...",
+   "categories": [],
+   "published_at": "2026-11-20T18:43:54Z"
+  },
+  {
+   "id": "843dea3c01",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/colorful-launches-all-white-igame-b850i-mini-w-oc-motherboard-with-pcie-5-0-and-wi-fi-7",
+   "url": "https://videocardz.com/newz/colorful-launches-all-white-igame-b850i-mini-w-oc-motherboard-with-pcie-5-0-and-wi-fi-7",
+   "title": "Colorful launches all-white iGame B850I MINI W OC motherboard with PCIe 5.0 and Wi-Fi 7",
+   "summary": "White version of Colorful's Mini-ITX AM5 motherboard Colorful has introduced the iGame B850I MINI W OC V14, a white version of its AMD B850 Mini-ITX motherboard. The new model features...",
+   "categories": [],
+   "published_at": "2026-11-20T17:55:00Z"
+  },
+  {
+   "id": "8fbfc9b537",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/microsoft-brings-rdma-over-usb4-to-windows-allowing-multiple-pcs-to-run-one-local-ai-model",
+   "url": "https://videocardz.com/newz/microsoft-brings-rdma-over-usb4-to-windows-allowing-multiple-pcs-to-run-one-local-ai-model",
+   "title": "Microsoft brings RDMA over USB4 to Windows, allowing multiple PCs to run one local AI model",
+   "summary": "Microsoft demonstrates 235B AI model running across three AMD Ryzen AI PCs Microsoft has announced a developer preview of RDMA over USB4 for Windows, allowing multiple computers to run a...",
+   "categories": [],
+   "published_at": "2026-11-20T16:49:03Z"
+  },
+  {
+   "id": "de3eed7c6f",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "T7P4LpZhcCHPYdWioBv5zR",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+   "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+   "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-20T16:30:08Z"
+  },
+  {
+   "id": "2edd288fda",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/ktc-prepares-31-5-inch-6k-mini-led-monitor-with-2304-dimming-zones-for-ces-2027",
+   "url": "https://videocardz.com/newz/ktc-prepares-31-5-inch-6k-mini-led-monitor-with-2304-dimming-zones-for-ces-2027",
+   "title": "KTC prepares 31.5-inch 6K Mini-LED monitor with 2,304 dimming zones for CES 2027",
+   "summary": "KTC M32P2 combines 6K IPS panel with 2,304-zone Mini-LED backlighting KTC is preparing a new 6K monitor for CES 2027. According to TechRadar, the company plans to showcase the M32P2,...",
+   "categories": [],
+   "published_at": "2026-11-20T15:13:34Z"
+  },
+  {
+   "id": "997600f118",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "v6Cbkqm4xZLhCvpVWhXzBW",
+   "url": "https://www.tomshardware.com/pc-components/ssds/vast-data-says-petabyte-ssds-will-outgrow-raid-in-todays-parallel-file-systems-simulation-of-a-900-pb-system-puts-data-loss-odds-at-1-in-11-over-10-years",
+   "title": "VAST says petabyte SSDs will outgrow today’s parallel file system RAID",
+   "summary": "VAST Data’s Glenn Lockwood told SC26 that petabyte SSDs need global declustering plus extra parity to avoid data loss.",
+   "categories": [
+    "SSDs",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-20T15:00:00Z"
+  },
+  {
+   "id": "0e8ee7c52f",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "mjS8dizJhbpotdmFxWSWqR",
+   "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-usd111-in-this-premium-am5-gaming-bundle-from-newegg-4-item-combo-includes-9950x3d-32gb-v-color-ddr5-ram-asus-rog-strix-x870e-e-gaming-motherboard-and-2tb-samsung-990-pro-ssd-for-only-usd1-549",
+   "title": "Get 32GB of DDR5 RAM for $111 in this premium AM5 gaming bundle from Newegg",
+   "summary": "Newegg’s freshest Black Friday combo deal takes $369 off four premium PC components, including the Ryzen 9 9950X3D, 32GB DDR5-6000 RAM, Asus ROG Strix X870E-E motherboard, 2TB Samsung SSD, and a free MSI AIO for just $1,549.",
+   "categories": [
+    "PC Components"
+   ],
+   "published_at": "2026-11-20T14:30:06Z"
+  },
+  {
+   "id": "114ac1d395",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/rtx-5090-founders-edition-allegedly-destroyed-during-warranty-claim-despite-owners-request-to-keep-it",
+   "url": "https://videocardz.com/newz/rtx-5090-founders-edition-allegedly-destroyed-during-warranty-claim-despite-owners-request-to-keep-it",
+   "title": "RTX 5090 Founders Edition allegedly destroyed during warranty claim despite owner’s request to keep it",
+   "summary": "RTX 5090 FE owner faces €2,369 refund for GPU now listed at nearly €7,000 Proshop customer refused a refund before the card reportedly disappeared. A GeForce RTX 5090 Founders Edition...",
+   "categories": [],
+   "published_at": "2026-11-20T14:00:21Z"
+  },
+  {
+   "id": "b3627bbe7f",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "3Mu3PWBXJB5RzffBfHesin",
+   "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+   "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+   "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+   "categories": [
+    "SSDs",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-20T14:00:00Z"
+  },
+  {
+   "id": "a5d2b44df3",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/tuxedo-launches-linux-laptop-with-ryzen-ai-9-hx-470-and-128gb-ram-support",
+   "url": "https://videocardz.com/newz/tuxedo-launches-linux-laptop-with-ryzen-ai-9-hx-470-and-128gb-ram-support",
+   "title": "TUXEDO launches Linux laptop with Ryzen AI 9 HX 470 and 128GB RAM support",
+   "summary": "TUXEDO announces 1.75kg Ryzen AI 9 HX 470 laptop with 99Wh battery German PC manufacturer TUXEDO Computers has introduced the InfinityBook Pro 15 Gen11 AMD, a Linux laptop powered by...",
+   "categories": [],
+   "published_at": "2026-11-20T12:55:32Z"
+  },
+  {
+   "id": "a66b0ca7ec",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "SD6dNaVmvgxz5BQPRaB548",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
+   "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+   "summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-20T12:30:00Z"
+  },
+  {
+   "id": "18d5c40702",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "LBpYjorozYpN9CLzzKNq8Q",
+   "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+   "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+   "summary": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+   "categories": [
+    "Mini PCs",
+    "Desktops"
+   ],
+   "published_at": "2026-11-20T12:00:00Z"
+  },
+  {
+   "id": "e3c333a331",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "WwRJ5x82SAuYeLLoRozdWE",
+   "url": "https://www.tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
+   "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
+   "summary": "Pick up a new gaming laptop for less with $575 off the Asus ROG G16 at Amazon.",
+   "categories": [
+    "Gaming Laptops",
+    "Laptops"
+   ],
+   "published_at": "2026-11-20T11:45:00Z"
+  },
+  {
+   "id": "ad0fed8cce",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/tcl-csot-showcases-27-inch-qhd-gaming-display-with-native-1250hz-refresh-rate",
+   "url": "https://videocardz.com/newz/tcl-csot-showcases-27-inch-qhd-gaming-display-with-native-1250hz-refresh-rate",
+   "title": "TCL CSOT showcases 27-inch QHD gaming display with native 1,250Hz refresh rate",
+   "summary": "TCL's latest gaming display prototype delivers 1,250Hz at 1440p TCL CSOT has demonstrated two high-refresh-rate gaming displays at its DTC 2026 conference in Wuhan, China. Both prototypes feature 27-inch panels...",
+   "categories": [],
+   "published_at": "2026-11-20T11:34:55Z"
+  },
+  {
+   "id": "c5d7930b12",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "qYj8hmCTNbDS3XM2HSsk63",
+   "url": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
+   "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+   "summary": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+   "categories": [
+    "Supercomputers",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-20T11:30:00Z"
+  },
+  {
+   "id": "f5a0d865d2",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "2u6TnYXpdDtSXFz3BduTSH",
+   "url": "https://www.tomshardware.com/pc-components/ssds/score-a-huge-49-percent-saving-on-a-2tb-samsung-9100-pro-ssd-while-you-can-now-17-5-cents-per-gb-ultra-fast-gen-5-drive-is-the-perfect-pc-storage-upgrade-down-to-usd349-99",
+   "title": "Score a huge 49% saving on a 2TB Samsung 9100 Pro SSD while you can",
+   "summary": "A huge discount on Amazon has brought the Gen 5 2TB Samsung 9100 Pro down to $349.99, an almost half-price saving compared to its list price.",
+   "categories": [
+    "SSDs",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-20T11:04:48Z"
+  },
+  {
+   "id": "91fba28e5f",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "2LgjE2u5GSGsU8odpbQzuZ",
+   "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+   "title": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
+   "summary": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+   "categories": [
+    "Gaming PCs",
+    "Desktops"
+   ],
+   "published_at": "2026-11-20T11:00:00Z"
+  },
+  {
+   "id": "d7607e92dc",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "Pwo9tbgmA7y2veU5RovxbJ",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+   "title": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
+   "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-20T10:30:00Z"
+  },
+  {
+   "id": "0c62b8c810",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/narrator-windows-11-login-screen-has-been-bypassed-using-narrator",
+   "url": "https://videocardz.com/newz/narrator-windows-11-login-screen-has-been-bypassed-using-narrator",
+   "title": "Narrator voice: Windows 11 login screen has been bypassed using… Narrator",
+   "summary": "Windows 11 Narrator vulnerability allows code execution without login A security researcher has discovered a vulnerability in Windows 11 that allows someone to bypass lock-screen restrictions using Microsoft's own Narrator...",
+   "categories": [],
+   "published_at": "2026-11-20T10:09:19Z"
+  },
+  {
+   "id": "f3fc0558dd",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/gigabyte-announces-aorus-ari-edition-ddr5-memory-and-panoramic-pc-cases",
+   "url": "https://videocardz.com/newz/gigabyte-announces-aorus-ari-edition-ddr5-memory-and-panoramic-pc-cases",
+   "title": "GIGABYTE announces AORUS ARI Edition DDR5 memory and panoramic PC cases",
+   "summary": "GIGABYTE expands AORUS ARI anime-themed hardware with CORSAIR DDR5 memory and PC cases GIGABYTE partners with CORSAIR, APNX and MONTECH to expand its anime-themed PC hardware series. GIGABYTE has announced...",
+   "categories": [],
+   "published_at": "2026-11-20T09:07:52Z"
+  },
+  {
+   "id": "344b14e2ed",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/polymega-remix-lets-windows-11-pcs-play-original-playstation-and-sega-saturn-games",
+   "url": "https://videocardz.com/newz/polymega-remix-lets-windows-11-pcs-play-original-playstation-and-sega-saturn-games",
+   "title": "Polymega Remix lets Windows 11 PCs play original PlayStation and Sega Saturn games",
+   "summary": "Polymega Remix opens Japan preorders for USB drive that plays PlayStation and Saturn games on PC NK Trading opened Japanese preorders for the Polymega Remix on November 17. The USB...",
+   "categories": [],
+   "published_at": "2026-11-20T08:03:26Z"
+  },
+  {
+   "id": "803807bd24",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "zgFDuMK5TTcC5XGN9EYvY5",
+   "url": "https://www.tomshardware.com/pc-components/get-an-rtx-5070-for-just-usd839-99-a-rare-savings-in-the-gpu-wasteland-msi-geforce-rtx-5070-ventus-2x-oc-12-gb-is-currently-on-sale-at-newegg",
+   "title": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
+   "summary": "Get an RTX 5070 for just $839.99 — MSI GeForce RTX 5070 Ventus 2X OC 12 GB is currently on sale at Newegg",
+   "categories": [
+    "PC Components"
+   ],
+   "published_at": "2026-11-20T00:59:02Z"
+  },
+  {
+   "id": "2f8b42ee47",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/valve-ends-steam-machine-2tb-waitlist-512gb-model-now-available-without-reservations",
+   "url": "https://videocardz.com/newz/valve-ends-steam-machine-2tb-waitlist-512gb-model-now-available-without-reservations",
+   "title": "Valve ends Steam Machine 2TB waitlist, 512GB model now available without reservations",
+   "summary": "Valve warns that future production and pricing remain uncertain Valve has announced changes to Steam Machine availability as component shortages continue to affect production. The company has cleared all existing...",
+   "categories": [],
+   "published_at": "2026-11-19T21:18:31Z"
+  },
+  {
+   "id": "3263619884",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "mV2qiwN6cBBus5gKebGthY",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+   "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+   "summary": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+   "categories": [
+    "Data Centers",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-19T21:00:00Z"
+  },
+  {
+   "id": "9a7c920dd4",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/gpu-z-2-72-adds-support-for-nvidia-rtx-4090-ti-es-rtx-5070-gb203-and-rtx-spark",
+   "url": "https://videocardz.com/newz/gpu-z-2-72-adds-support-for-nvidia-rtx-4090-ti-es-rtx-5070-gb203-and-rtx-spark",
+   "title": "GPU-Z 2.72 adds support for NVIDIA RTX 4090 Ti ES, RTX 5070 GB203 and RTX Spark",
+   "summary": "GPU-Z 2.72 expands NVIDIA and AMD GPU support, adds new sensor features TechPowerUp has released GPU-Z 2.72.0 with support for several NVIDIA graphics processors, including the unreleased GeForce RTX 4090...",
+   "categories": [],
+   "published_at": "2026-11-19T20:49:44Z"
+  },
+  {
+   "id": "2ce4bcc790",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/gta-vi-xbox-build-allegedly-leaked-by-cyberleek",
+   "url": "https://videocardz.com/newz/gta-vi-xbox-build-allegedly-leaked-by-cyberleek",
+   "title": "GTA VI Xbox build allegedly leaked by Cyberleek",
+   "summary": "Cyberleek claims to have leaked 209GB GTA VI Xbox build, but main executable is missing Cyberleek has returned with another Grand Theft Auto VI leak claim, this time involving what...",
+   "categories": [],
+   "published_at": "2026-11-19T20:10:53Z"
+  },
+  {
+   "id": "b40890e28c",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/japannext-launches-31-5-inch-6k-monitor-for-1062-with-300-nit-ips-panel",
+   "url": "https://videocardz.com/newz/japannext-launches-31-5-inch-6k-monitor-for-1062-with-300-nit-ips-panel",
+   "title": "JAPANNEXT launches 31.5-inch 6K monitor for $1,062, with 300-nit IPS panel",
+   "summary": "JAPANNEXT expands its 6K monitor portfolio JN-X6K2 offers 6016×3384 resolution, 60Hz refresh rate and USB-C with 90W power delivery. JAPANNEXT has launched the JN-X6K2, a new 31.5-inch 6K monitor in...",
+   "categories": [],
+   "published_at": "2026-11-19T19:28:56Z"
+  },
+  {
+   "id": "e8230dd87d",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/seasonic-confirms-its-3200w-psu-will-launch-soon-features-six-12v-2x6-gpu-connectors",
+   "url": "https://videocardz.com/newz/seasonic-confirms-its-3200w-psu-will-launch-soon-features-six-12v-2x6-gpu-connectors",
+   "title": "Seasonic confirms its 3,200W PSU will launch soon, features six 12V-2×6 GPU connectors",
+   "summary": "Just in time for winter: Seasonic prepares PRIME ENTERPRISE PX-3200 power supply with six 12V-2×6 connectors Seasonic is preparing to release its 3,200W PRIME ENTERPRISE PX-3200 power supply, designed for...",
+   "categories": [],
+   "published_at": "2026-11-19T18:18:08Z"
+  },
+  {
+   "id": "e3c9872684",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/amd-xdna-2-npus-can-now-run-35b-parameter-ai-models-through-unsloth-desktop",
+   "url": "https://videocardz.com/newz/amd-xdna-2-npus-can-now-run-35b-parameter-ai-models-through-unsloth-desktop",
+   "title": "AMD XDNA 2 NPUs can now run 35B-parameter AI models through Unsloth Desktop",
+   "summary": "AMD finally puts Ryzen AI NPUs to work with Unsloth Desktop AMD has announced a collaboration with Unsloth to enable dedicated NPU acceleration in Unsloth Desktop. According to AMD, its...",
+   "categories": [],
+   "published_at": "2026-11-19T16:42:39Z"
+  },
+  {
+   "id": "828243c70b",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/amd-zen-6-desktop-ryzen-cpus-reportedly-delayed-until-after-computex-2027",
+   "url": "https://videocardz.com/newz/amd-zen-6-desktop-ryzen-cpus-reportedly-delayed-until-after-computex-2027",
+   "title": "AMD Zen 6 desktop Ryzen CPUs reportedly delayed until after Computex 2027",
+   "summary": "AMD Zen 6 Olympic Ridge reportedly switches to TSMC N2X, launch delayed beyond Computex 2027 Ryzen desktop CPUs may arrive later than previously expected. AMD's next-generation Ryzen desktop processors based...",
+   "categories": [],
+   "published_at": "2026-11-19T15:35:31Z"
+  },
+  {
+   "id": "a9cd85af59",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "mnQXngv4kRYQVhPUaGthSD",
+   "url": "https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan",
+   "title": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
+   "summary": "Intel continues to reduce headcount, IT department affected this time.",
+   "categories": [
+    "CPUs",
+    "PC Components"
+   ],
+   "published_at": "2026-11-19T14:58:13Z"
+  },
+  {
+   "id": "3ca828bfe4",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/lenovo-project-hoverview-leaked-ahead-of-ces-2027-featuring-a-floating-2d-display",
+   "url": "https://videocardz.com/newz/lenovo-project-hoverview-leaked-ahead-of-ces-2027-featuring-a-floating-2d-display",
+   "title": "Lenovo Project Hoverview leaked ahead of CES 2027, featuring a floating 2D display",
+   "summary": "Lenovo Project Hoverview leaks with estimated 12-inch floating screen NieuweMobiel.NL has published images of an unannounced Lenovo device known internally as Project Hoverview. The product reportedly uses an aerial display...",
+   "categories": [],
+   "published_at": "2026-11-19T14:39:40Z"
+  },
+  {
+   "id": "dfbce62ead",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/hp-launches-wildcat-lake-mini-pc-with-core-7-350-and-up-to-32gb-ddr5-memory",
+   "url": "https://videocardz.com/newz/hp-launches-wildcat-lake-mini-pc-with-core-7-350-and-up-to-32gb-ddr5-memory",
+   "title": "HP launches Wildcat Lake mini PC with Core 7 350 and up to 32GB DDR5 memory",
+   "summary": "HP Wildcat Lake mini PC listed for $900, Core 7 model costs $1,259 HP has started selling the ProDesk 2 Mini G2i, a compact business desktop powered by Intel's Wildcat...",
+   "categories": [],
+   "published_at": "2026-11-19T13:17:12Z"
+  },
+  {
+   "id": "21a0e7aad8",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "RJQch8efw3LRWM5yYqYEiQ",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology",
+   "title": "Intel 18A yields hit 70% as company signs Microsoft as EMIB customer",
+   "summary": "Intel's 18A yields achieve an important milestone as the company signs a long-term Xeon supply deal and EMIB usage agreement with Microsoft.",
+   "categories": [
+    "Semiconductors",
+    "Tech Industry",
+    "Manufacturing"
+   ],
+   "published_at": "2026-11-19T13:00:00Z"
+  },
+  {
+   "id": "6d6b6f08ef",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/amd-rocm-10-2-now-supports-18-more-ryzen-100-and-200-processors",
+   "url": "https://videocardz.com/newz/amd-rocm-10-2-now-supports-18-more-ryzen-100-and-200-processors",
+   "title": "AMD ROCm 10.2 now supports 18 more Ryzen 100 and 200 processors",
+   "summary": "AMD ROCm 10.2 adds support for 18 Ryzen processors, including some confusing SKUs AMD has released ROCm 10.2, expanding official GPU compute support to 18 additional Ryzen processors. The list...",
+   "categories": [],
+   "published_at": "2026-11-19T12:27:42Z"
+  },
+  {
+   "id": "54f8a8c989",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "vAgH6mcUiKD4L7SobyhVr9",
+   "url": "https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent",
+   "title": "Silicon Motion demos SM8466 PCIe 6.0 SSD controller, expected to ship by 2028 — controller boasts improved quality of service, samples imminent",
+   "summary": "Silicon Motion's SM8466 has finally taped out and is set to enter the market in 2027-2028.",
+   "categories": [
+    "SSDs",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-19T12:00:00Z"
+  },
+  {
+   "id": "ed86157695",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/oled-monitor-shipments-double-yoy-in-q3-2026-asus-leads-with-21-7-market-share",
+   "url": "https://videocardz.com/newz/oled-monitor-shipments-double-yoy-in-q3-2026-asus-leads-with-21-7-market-share",
+   "title": "OLED monitor shipments double YoY in Q3 2026, ASUS leads with 21.7% market share",
+   "summary": "ASUS, MSI and Samsung account for nearly half of OLED monitor shipments Global OLED monitor shipments doubled year-over-year in the third quarter of 2026, according to the latest TrendForce report....",
+   "categories": [],
+   "published_at": "2026-11-19T11:39:46Z"
+  },
+  {
+   "id": "c943cd6d23",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "QUGfiVTtNbA94fqwVQH8hQ",
+   "url": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
+   "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
+   "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
+   "categories": [
+    "CPUs",
+    "PC Components"
+   ],
+   "published_at": "2026-11-19T11:30:00Z"
+  },
+  {
+   "id": "d6c6eec5e7",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "3ru4aUHTaQVdFnEJnxzgDk",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
+   "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+   "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+   "categories": [
+    "Artificial Intelligence",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "7a9d0ad5d0",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "KAf5fEv3SBwYxk8FWAM6qg",
+   "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
+   "title": "Get 32GB of DDR5 for $240 with this blistering Intel gaming PC bundle",
+   "summary": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
+   "categories": [
+    "PC Components"
+   ],
+   "published_at": "2026-11-19T10:54:03Z"
+  },
+  {
+   "id": "21ec762781",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "eiG6UWRTuVE6snCfD8V45Y",
+   "url": "https://www.tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week",
+   "title": "Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB",
+   "summary": "Grab this 4TB Samsung 990 Pro SSD with Gen 4 speeds for $699.99, a 36% price drop compared to its list price and a $100 drop since last week.",
+   "categories": [
+    "SSDs",
+    "PC Components",
+    "Storage"
+   ],
+   "published_at": "2026-11-19T10:52:20Z"
+  },
+  {
+   "id": "4310b334c3",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/intel-core-ultra-7-270k-plus-arrow-lake-refresh-cpu-drops-to-233-lowest-price-on-record",
+   "url": "https://videocardz.com/newz/intel-core-ultra-7-270k-plus-arrow-lake-refresh-cpu-drops-to-233-lowest-price-on-record",
+   "title": "Intel Core Ultra 7 270K Plus Arrow Lake Refresh CPU drops to $233, lowest price on record",
+   "summary": "Intel Core Ultra 7 270K Plus drops below $235 ahead of Nova Lake Intel's Core Ultra 7 270K Plus has dropped to $232.70 on Amazon US as part of an...",
+   "categories": [],
+   "published_at": "2026-11-19T10:12:30Z"
+  },
+  {
+   "id": "668bfe4b4d",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "GzfUWy8UtdAutnGbLLEEGg",
+   "url": "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot",
+   "title": "DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot",
+   "summary": "Upcoming DDR6 memory cuts module length from 133mm to 74mm while kicking off at 12.8 GT/s, more than doubling DDR5’s baseline transfer rate.",
+   "categories": [
+    "RAM",
+    "PC Components"
+   ],
+   "published_at": "2026-11-19T10:00:00Z"
+  },
+  {
+   "id": "5b4e4a943b",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/lg-ultragear-27gx700a-b-with-280hz-tandem-oled-panel-drops-to-399-in-the-us-less-than-half-its-original-price",
+   "url": "https://videocardz.com/newz/lg-ultragear-27gx700a-b-with-280hz-tandem-oled-panel-drops-to-399-in-the-us-less-than-half-its-original-price",
+   "title": "LG UltraGear 27GX700A-B with 280Hz Tandem OLED panel drops to $399 in the US, less than half its original price",
+   "summary": "LG's 1440p 280Hz Tandem OLED monitor gets $450 price cut LG has reduced the price of its UltraGear 27GX700A-B gaming monitor to $399.99 in the US as part of its...",
+   "categories": [],
+   "published_at": "2026-11-19T09:15:49Z"
+  },
+  {
+   "id": "d044922061",
+   "source": "videocardz",
+   "source_name": "VideoCardz",
+   "guid": "https://videocardz.com/newz/modders-already-run-gta-vi-with-dlss-5-and-frame-generation-on-pcs-through-ps5-remote-play",
+   "url": "https://videocardz.com/newz/modders-already-run-gta-vi-with-dlss-5-and-frame-generation-on-pcs-through-ps5-remote-play",
+   "title": "Modders already run GTA VI with DLSS 5 and Frame Generation on PCs through PS5 Remote Play",
+   "summary": "PS5 gameplay can be enhanced with NVIDIA DLSS 5 and Frame Generation Grand Theft Auto VI has launched on consoles with a 30 FPS target, including on PlayStation 5 Pro....",
+   "categories": [],
+   "published_at": "2026-11-19T08:30:09Z"
+  },
+  {
+   "id": "896e11b389",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "bZRbMcCiA59Ci698BAKkDj",
+   "url": "https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai",
+   "title": "AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note",
+   "summary": "Following a post on X, AMD Japan's claim that the company values gamers \"above all else\" saw those gamers point out that its own CEO believes the company is more focused on data centers.",
+   "categories": [
+    "PC Components"
+   ],
+   "published_at": "2026-11-18T21:00:00Z"
+  },
+  {
+   "id": "6baf470c99",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "anSPFNBatKYhYUxPWWMPAf",
+   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
+   "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
+   "summary": "Nvidia’s GeForce 621.14 and 621.24 drivers reportedly rewrite a log file nonstop, writing gigabytes to SSDs every hour.",
+   "categories": [
+    "GPU Drivers",
+    "PC Components",
+    "GPUs"
+   ],
+   "published_at": "2026-11-18T21:00:00Z"
+  },
+  {
+   "id": "b71e02c663",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "FT4NgDk8LUxA8xVQHjfo5T",
+   "url": "https://www.tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch",
+   "title": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S",
+   "summary": "GTA VI will target 30FPS across PlayStation and Xbox consoles, with Rockstar using its own temporal anti-aliasing solution on the PS5 and Xbox Series X, Sony's PSSR 2 on the PS5 Pro, and AMD's FSR 4 on the Xbox Series S.",
+   "categories": [
+    "Console Gaming",
+    "Video Games"
+   ],
+   "published_at": "2026-11-18T16:00:00Z"
+  },
+  {
+   "id": "132f5d39cd",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "ss9oBCEhWX5WjkhPYhjRoU",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries",
+   "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law",
+   "summary": "A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building new facilities.",
+   "categories": [
+    "Data Centers",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-18T15:30:00Z"
+  },
+  {
+   "id": "41c4d47149",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "oHGBQrBrddqJQiZsazTPg9",
+   "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims",
+   "title": "Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development",
+   "summary": "AMD has criticized Nvidia, and to a lesser extent Arm, for claims about creating a CPU designed for agentic AI. Nvidia is pushing back on that characterization, instead saying Vera was designed with “base principles, product intuition, and oftentimes simple allegorical laws of computer science” in a recent interview with Tom’s Hardware.",
+   "categories": [
+    "CPUs",
+    "PC Components"
+   ],
+   "published_at": "2026-11-18T15:00:00Z"
+  },
+  {
+   "id": "9aba141c66",
+   "source": "tomshardware",
+   "source_name": "Tom's Hardware",
+   "guid": "RECwUGTJhRdG2gBMqGDHnR",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
+   "title": "Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center",
+   "summary": "5,000 to 6,000 gallons of propylene glycol spilled from a SpaceXAI facility in Southaven, Mississippi, before reaching a nearby drainage ditch. State environmental officials have sought to ease the worries of locals, saying there is no risk to their health.",
+   "categories": [
+    "Data Centers",
+    "Tech Industry"
+   ],
+   "published_at": "2026-11-18T14:30:00Z"
+  }
+ ]
+}
